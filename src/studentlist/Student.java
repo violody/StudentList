@@ -28,4 +28,7 @@ public class Student {
          this.studentID = studentID;
      }
    
+    public String getAddress() {
+        return address;
+    }
 }
