@@ -5,7 +5,7 @@
 package studentlist;
 
 /**
- *
+ *Email: violody@sheridancollege.ca
  * @author fagun at 12/05/2024
  */
 public class Student {
